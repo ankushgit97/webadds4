@@ -1,0 +1,7 @@
+<apex:page >
+    <h1>
+        Hello user this is adds page
+    </h1>
+    
+    
+</apex:page>
